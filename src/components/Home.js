@@ -13,9 +13,6 @@ export default function Home(){
        <Nav />
        </Segment>
        <Image src={logo} size='massive' bordered centered />
-      {/* <Button>
-      <Link to="/nasaphoto">See into the stars!</Link> 
-      </Button> */}
     </div>
   )
 }
